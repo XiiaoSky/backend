@@ -1,0 +1,171 @@
+
+        body::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+            background-color: #F5F5F5;
+
+        }
+
+        body::-webkit-scrollbar {
+            width: 10px;
+            background-color: #F5F5F5;
+          
+        }
+
+        body::-webkit-scrollbar-thumb {
+            border-radius: 20px !important;
+            background-color: #3b2119;
+            border: 2px solid white;
+
+        }
+  
+        textarea{
+            height: 200px !important;
+        }
+ @font-face {
+    font-family: gillbold;
+    src: url('../css/Gilroy-Bold.ttf');
+  }
+  .font-gilorybold{
+      font-family: gillbold;
+  }
+        .sidebar-menu {
+            background-color: #FFCD0F !important;
+        }
+
+        i {
+            color: white;
+        }
+
+        input:focus {
+            border-color: #FC3901 !important;
+        }
+
+        textarea:focus {
+            border-color: #FC3901 !important;
+        }
+
+        select:focus {
+            border-color: #FC3901 !important;
+        }
+
+        .btn-primary {
+            background-image: linear-gradient(#E66138, #FC3901) !important;
+
+        }
+
+        .nav-pills .active {
+            background-image: linear-gradient(#E66138, #FC3901) !important;
+
+        }
+
+        .pagination .active a {
+            border: 1px solid #FC3901 !important;
+            background-image: linear-gradient(#E66138, #FC3901) !important;
+        }
+
+        .nav-pills .nav-item .nav-link.active {
+            color: white !important;
+        }
+
+        .activeLi {
+            background-color: white !important;
+            margin: 5px 10px !important;
+            border-radius: 10px;
+            padding: 0px 0px !important;
+            color: black !important;
+        }
+
+
+        .sidebar-menu li {
+            margin: 5px 10px !important;
+            border-radius: 5px !important;
+
+
+        }
+
+
+        .sidebar-menu li a:hover {
+            border-radius: 5px !important;
+            color: black !important;
+        }
+
+
+        .sidebar-menu li a:hover i {
+            color: black !important;
+        }
+
+        .sidebar-menu li a:hover span {
+            color: black !important;
+        }
+
+      
+
+        .sidebar-menu li a i {
+
+            color: white;
+        }
+
+        .sidebar-menu li a span {
+
+            color: white;
+        }
+
+        .activeLi a i {
+            color: black !important;
+        }
+
+        .activeLi a span {
+            color: black !important;
+        }
+
+        .menu-header{
+            font-weight: bold !important;
+            font-family: gillbold !important;
+   
+        }
+        .swal-button--confirm{
+            background-image: linear-gradient(#E66138, #FC3901) !important;
+        }
+        .bgcolor{
+            background-color: #E66138 !important;   
+        }
+
+        .useradmin i{
+            font-size: 25px !important; 
+            color:white !important;
+        }
+
+        .logicon{
+            color : red !important; font-size:16px !important;
+        }
+        .main-sidebar{
+            background-image: linear-gradient(to right,#FC3901, #E66138 ) !important; 
+        }
+        #sidebar-wrapper{
+            background-image: linear-gradient(to right,#FC3901, #E66138 ) !important; 
+        }
+        .sidebar-menu{
+            background-image: linear-gradient(to right,#FC3901, #E66138 ) !important; 
+        }
+        .info {
+        background-color: #e7f3fe;
+        border-left: 6px solid #FB3B03;
+        padding-left: 10px ;
+      }
+
+      .nav-pills .nav-link {
+        color: black !important;
+    }
+
+    .nav-pills .active {
+    background-image: linear-gradient(#E66138, #FC3901 ) !important;
+
+}
+
+        @media (max-width: 1024px){
+            .main-navbar{
+            left: 0 !important;
+          }
+        }
+     
+        

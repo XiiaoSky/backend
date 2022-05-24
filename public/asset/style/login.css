@@ -1,0 +1,10 @@
+input:focus{
+    border-color: #FC3901 !important; 
+}
+
+.card{
+    border-top: 5px solid #E66138;
+}
+.loginbtn{
+    background-image: linear-gradient(#E66138, #FC3901 ) !important;
+}
